@@ -1,0 +1,5 @@
+#Learning variables
+name = 'Harika'
+age = 38
+wishes = 'Good Morning'
+message = f '{name} , {age}. {wishes}'
